@@ -1,0 +1,17 @@
+{
+    "name": "@game-soft/gamecube",
+    "version": "0.1.0",
+    "main": "lib/main.js",
+    "description": "NINTENDO GAMECUBE soft list of release dates",
+    "files": [
+        "README.md",
+        "lib/",
+        "data/soft_list.js"
+    ],
+    "repository": "game-soft/gamecube",
+    "author": "daisuke.takayama",
+    "license": "MIT",
+    "ignore": [
+        ".*"
+    ]
+}
