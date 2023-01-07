@@ -1,6 +1,6 @@
 {
     "name": "@game-soft/gamecube",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "main": "lib/main.js",
     "description": "NINTENDO GAMECUBE soft list of release dates",
     "files": [
